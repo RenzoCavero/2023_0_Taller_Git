@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 20191937
 20190426
 league of legends
@@ -10,4 +10,3 @@ fifa
 clash of clans
 brwalstars
 
->>>>>>> c6ed9d660e3abcd8fbb23eb1185618d4716b534c
